@@ -1,0 +1,54 @@
+0
+: 
+{_id: '65d5e929cda1fdb8ab2ccff6', name: 'Nachos', description: 'Nachos 80g with Cheese Dip 50g | 382 kcal', category: 'vegetarian', price: 350, …}
+1
+: 
+{_id: '65d5ea25cda1fdb8ab2cd003', name: 'Coke 810ml', description: 'Coke 810ml | 373 kcal', category: 'vegetarian', price: 360, …}
+2
+: 
+{_id: '65d5ea9fcda1fdb8ab2cd00a', name: 'Coke 560ml', description: 'Coke 580ml | 267 kcal', category: 'vegetarian', price: 360, …}
+3
+: 
+{_id: '65d5eaddcda1fdb8ab2cd00f', name: 'Cappuccino 150ml', description: 'Cappuccino 150ml | 99 kcal', category: 'vegetarian', price: 200, …}
+4
+: 
+{_id: '65d5eb21cda1fdb8ab2cd013', name: 'Masala Tea 180ml', description: 'Masala Tea 180ml | 134 kcal', category: 'vegetarian', price: 200, …}
+5
+: 
+{_id: '65d5eb81cda1fdb8ab2cd01e', name: 'Jumbo Cheese Popcorn', description: 'Jumbo Cheese Popcorn 240g | 1380 kcal', category: 'vegetarian', price: 520, …}
+6
+: 
+{_id: '65d5ebc1cda1fdb8ab2cd023', name: 'Jumbo Salted Popcorn', description: 'Jumbo Salted Popcorn 240g | 1311 kcal', category: 'vegetarian', price: 490, …}
+7
+: 
+{_id: '65d5ebf7cda1fdb8ab2cd028', name: 'Jumbo Caramel Popcorn', description: 'Jumbo Caramel Popcorn 240g | 1262 kcal', category: 'vegetarian', price: 520, …}
+8
+: 
+{_id: '65d5ec36cda1fdb8ab2cd02d', name: ' Nachos Combo (Flavoured)', description: 'Jumbo Tub Flavoured Popcorn 240g + Nachos 80g with Cheese Dip 50g + Large Coke 810ml | 1516 kcal', category: 'vegetarian', price: 940, …}
+9
+: 
+{_id: '65d5ed54cda1fdb8ab2cd03d', name: 'Friends Combo', description: 'Jumbo Tub Salted Popcorn 240g + 2 Large Coke 810ml | 1295 kcal', category: 'vegetarian', price: 920, …}
+10
+: 
+{_id: '65d5ee10cda1fdb8ab2cd042', name: 'Friends Combo (Flavoured)', description: 'Jumbo Tub Flavoured Popcorn 240g + 2 Large Coke 810ml | 1295 kcal', category: 'vegetarian', price: 950, …}
+11
+: 
+{_id: '65d5ee56cda1fdb8ab2cd046', name: 'Jumbo Combo', description: 'Jumbo Tub Salted Popcorn 240g + Nachos 80g with Cheese Dip 50g + 2 Large Coke 810ml | 1587 kcal', category: 'vegetarian', price: 1180, …}
+12
+: 
+{_id: '65d5eeb9cda1fdb8ab2cd04e', name: 'Jumbo combo (Flavoured)', description: 'Jumbo Tub Flavoured Popcorn 240g + Nachos 80g with Cheese Dip 50g + 2 Large Coke 810ml | 1587 kcal', category: 'vegetarian', price: 1210, …}
+13
+: 
+{_id: '65d5ef23cda1fdb8ab2cd057', name: 'Nachos Combo', description: 'Jumbo Tub Salted Popcorn 240g + Nachos 80g with Cheese Dip 50g + Large Coke 810ml | 1516 kcal', category: 'vegetarian', price: 910, …}
+14
+: 
+{_id: '65d5efbccda1fdb8ab2cd060', name: 'Nachos Combo (Flavoured)', description: 'Jumbo Nachos Flavoured Popcorn 240g + 2 Large Coke 810ml | 1295 kcal', category: 'vegetarian', price: 1120, …}
+15
+: 
+{_id: '65d5f03fcda1fdb8ab2cd069', name: 'Chicken Hot Dog Combo', description: 'Hot Dog + Nachos 80g with Cheese Dip 50g + 2 Large Coke 810ml | 1587 kcal', category: 'non-vegetarian', price: 999, …}
+16
+: 
+{_id: '65d5f128cda1fdb8ab2cd078', name: 'Chicken Pizza Combo', description: '1 Pizza (Large)+ Nachos 80g with Cheese Dip 50g + 2 Large Coke 810ml | 1587 kcal', category: 'non-vegetarian', price: 999, …}
+length
+: 
+17
